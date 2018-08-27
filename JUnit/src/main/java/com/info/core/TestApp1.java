@@ -1,7 +1,10 @@
 package com.info.core;
 
 
+
+
 import org.junit.Assert;
+
 import org.junit.Test;
 
 public class TestApp1 {
@@ -11,7 +14,8 @@ public class TestApp1 {
 
 		Assert.assertEquals(App.getHelloWorld(), "Hello World");
 
-	}
+	
+	}	
 
 }
 
